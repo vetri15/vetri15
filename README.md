@@ -6,6 +6,7 @@ Hi! I'm Vetri 👋, a passionate Blockchain Learner and a diligent Software Deve
 ## 🛠️ Technologies I'm Exploring
 #### Blockchain & Smart Contracts
 -   **Ethereum**: Solidity, Hardhat, Alchemy, Ethers.js
+-   **ChainLink**: VRF, Keepers
 -   **IPFS**: Decentralized storage
 
 #### Development Tools
