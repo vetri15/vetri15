@@ -20,6 +20,7 @@ Hi! I'm Vetri 👋, a passionate Blockchain Learner and a diligent Software Deve
 
 -   Building **DApps** using Solidity, Hardhat, and Ethers.js.
 -   Integrating **NFTs** and exploring ERC standards.
+-   Exploring ways to leverage upcoming EIP proposals to enhance the DApps.
 -   Understanding **DeFi protocols** and smart contract security.
 -   Participating in hackathons and contributing to open-source blockchain projects.
 
