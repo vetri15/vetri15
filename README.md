@@ -10,7 +10,7 @@ Hi! I'm Vetri 👋, a passionate Blockchain Learner and a diligent Software Deve
 -   **IPFS**: Decentralized storage
 
 #### Development Tools
--   **Languages**: JavaScript, C#
+-   **Languages**: JavaScript, Java, C#
 -   **Frontend**: React, Next.js, Tailwind CSS
 -   **Backend**: Node.js, Express
 -   **Databases**: MongoDB
