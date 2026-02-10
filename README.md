@@ -1,5 +1,5 @@
 
-## 💻 Software Developer 🚀 ⛓️
+## 💻 Software Developer 🚀 🌎
 
 Hi! I'm Vetri 👋, a passionate Software Developer with experience in Java Spring Boot microservices and Microsoft Dynamics CRM. I enjoy solving complex business problems, building scalable backend systems, and integrating enterprise applications.
 
